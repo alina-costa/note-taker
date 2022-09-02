@@ -8,3 +8,7 @@ The user will be presented with an empty note, and after they are done writing t
 Upon clicking the save button, the note will then appear on the left hand column of the application, along with other saved notes. 
 
 If the user wants to edit an existing note, they can simply click on it on the left-hand column and it will reappear on the right-hand side and allow them the ability to edit. 
+
+Future Development: actually connect the back end to the front end. 
+
+Heroku Link: https://damp-wave-03339.herokuapp.com/ 
